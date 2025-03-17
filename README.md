@@ -1,9 +1,11 @@
 # Exploring-Global-Happiness-A-Tableau-Story-2015-2023
 
 Project Overview
+
 Understanding happiness is essential to improving well-being worldwide. This project leverages Tableau Public to analyze data from the World Happiness Report (2015-2023), covering 150+ countries. The goal is to identify key drivers of happiness and visualize how factors like GDP, social support, life expectancy, freedom, and generosity influence well-being globally.
 
 Dataset & Methodology
+
 The dataset was sourced from the World Happiness Report, a public dataset from Kaggle. It contains yearly reports from 2015 to 2023, measuring happiness scores based on factors such as:
 •	GDP per capita: Economic prosperity
 •	Social support: The presence of close relationships and support networks
@@ -14,6 +16,7 @@ The dataset was sourced from the World Happiness Report, a public dataset from K
 For analysis, I used Tableau Public to create interactive dashboards that help explore trends, correlations, and regional comparisons.
 
 Key Visualizations & Insights
+
 1. Happiness Status Overview (2015-2023)
 •	Regional Happiness Trends: A highlighted table showcasing average happiness scores by region, allowing users to compare overall well-being across continents.
 •	Top 10 Happiest & Least Happy Countries: Interactive maps displaying the most and least happy countries using color-coded indicators. Tooltips reveal country details, region, and average happiness scores.
@@ -31,6 +34,7 @@ Key Visualizations & Insights
 •	Key differences: Many of these nations struggle with low GDP, weak social structures, and high corruption perceptions, leading to persistently lower happiness scores.
 
 Key Takeaways
+
 📌 Economic prosperity plays a role in happiness, but social and health factors have a stronger impact. 📌 Countries with high levels of social support, freedom, and low corruption tend to be the happiest. 📌 The happiness gap remains significant between the happiest and least happy nations, highlighting disparities in quality of life.
 
 Project Link & Next Steps
