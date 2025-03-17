@@ -34,6 +34,7 @@ Key Takeaways
 📌 Economic prosperity plays a role in happiness, but social and health factors have a stronger impact. 📌 Countries with high levels of social support, freedom, and low corruption tend to be the happiest. 📌 The happiness gap remains significant between the happiest and least happy nations, highlighting disparities in quality of life.
 
 Project Link & Next Steps
+
 🔗 Explore the Interactive Dashboard Here: https://public.tableau.com/shared/5RWMNZT6F?:display_count=n&:origin=viz_share_link
 
 🔗 GitHub Repository: https://github.com/dishant21001/Exploring-Global-Happiness-A-Tableau-Story-2015-2023-.git
