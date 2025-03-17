@@ -35,6 +35,7 @@ Key Takeaways
 
 Project Link & Next Steps
 🔗 Explore the Interactive Dashboard Here: https://public.tableau.com/shared/5RWMNZT6F?:display_count=n&:origin=viz_share_link
+
 🔗 GitHub Repository: https://github.com/dishant21001/Exploring-Global-Happiness-A-Tableau-Story-2015-2023-.git
 
 This project allowed me to apply data visualization, analytics, and storytelling skills to uncover meaningful insights from a decade of global happiness data. I plan to expand this project by exploring machine learning models to predict future happiness trends based on historical data.
